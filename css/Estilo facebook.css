@@ -1,0 +1,206 @@
+body{
+    background-color: #f0f2f5;
+}
+
+.tipoletra{
+    font-family: reg Arial, Helvetica, sans-serif;
+}
+
+.caja1{
+    background-color: #f0f2f5;
+    margin-top: 90px;
+    
+        
+}
+.ubicacionencaja1{
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    height: 96px;
+    padding: 0 0 20px;
+    margin: 0  ;
+}
+
+
+.caja2{
+    background-color: #f0f2f5;
+   
+    padding: 50px;
+    border: none;
+
+    
+   
+}
+.UnionCaja{
+    display: flex;
+    padding-bottom: 112px;
+    padding-top: 72px;
+    justify-content: center;
+    margin: 28px;
+    border: none;
+}
+.subcaja2{
+    background-color: #fff;
+   
+    padding: 25px;
+    text-align: center;
+    height: 50 px;
+    border-radius: 8px;
+}
+.subcaja3{
+    background-color: #fff;
+    
+}
+.marcoUsuario{
+font-size: 17px;
+padding: 14px 16px;
+width: 332px;
+border-radius: 6px;
+border: 1px solid #dddfe2;;
+height: 22px;
+margin: 8px 16px;
+
+}
+.iniciarsesion{
+   background-color:  #1877f2;
+   border: none;
+   font-size: 20px;
+   line-height: 48px;
+   padding: 0 16px;
+   width: 332px;
+   border-radius: 6px;
+   color: #fff;
+   margin: 8px 16px;
+    
+
+
+}
+.lineaCrearcuentanueva{
+    height: 1px;
+    background-color: #dadde1;
+    width: 100%;
+    margin-top: 10px;
+}
+.crearCuenta{
+    background-color:  #42b72a;
+    border: none;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 200px;
+    border-radius: 6px;
+    color: #fff;
+    display: inline-block;
+    margin: 20px 16px;
+
+}
+
+.olvidastelacontra{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    margin: 8px 16px;
+    
+}
+.Creeunapagina{
+color: #1c1e21;
+text-decoration: none;
+font-size: 14px;
+display: flex;
+justify-content: center;
+
+}
+
+.caja4{
+    background-color: #fff;
+
+}
+
+.juntarfooter{
+   list-style: none; 
+   display: flex;
+
+}
+
+.espacio{
+    padding: 0 8px;
+}
+.color{
+    color: #737373;
+    list-style: none;
+}
+.lineaCrearcuentanueva{
+    height: 1px;
+    background-color: #dadde1;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.imagenfacebook{
+    width: 320.938px;
+    height: 106px;
+    transform: translate(-30px);
+}
+.juntarfooter2{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20%;
+    list-style: none;
+}
+
+li a{
+    white-space: nowrap;
+}
+
+.caja4{
+   display: flex;
+    align-content: end;
+    height: 200px;
+    flex-direction: column;
+    justify-content: end;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+
+.cajafooter4{
+    display: flex;
+    justify-content: start;
+}
+.espaciofooteridiomas{
+    padding: 0 20.4%;
+}
+
+.centrado12{
+    display: flex;
+    justify-content: center;
+}
+
+.lineasola{
+    height: 1px;
+    background-color: #dadde1;
+    width: 59.5%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.colormeta{
+    color: #737373;;
+}
+.meta{
+    padding: 0 20.4%;
+}
+
+    .x{
+        height: 250px;
+        display: flex;
+        justify-content: end;
+        align-items: end;
+    }
+
+.tamanotextofooter{
+    font-size: small;
+}

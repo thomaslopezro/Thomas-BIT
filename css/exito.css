@@ -1,0 +1,33 @@
+:root{
+--amarillo-pollito: #ffe812
+}
+
+.textoHeader{
+ padding-left: 170px ;
+}
+.btn-Exito{
+background-color: var(--amarillo-pollito);
+height: 22px;
+font-size: 1rem;
+min-width: none;
+}
+
+@media (min-width: 992px) {
+    .textoHeader {
+        padding-left: 170px;
+    }
+}
+
+.big-amarillo{
+    background-color: var(--amarillo-pollito);
+}
+
+.tamnoExito{
+    width: 80px;
+}
+.tamanobuscar{
+    width: 732px;
+}
+.tamanogeneral{
+    font-size: 22px;
+}

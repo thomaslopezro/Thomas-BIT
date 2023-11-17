@@ -1,0 +1,65 @@
+:root{
+    --color-azul:#151d27
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.barra{
+    background-color: var(--color-azul);
+    display: flex;
+    justify-content: space-around;
+}
+.composicionLogo{
+    display: flex;
+    justify-content: center;
+    align-content: center ;
+    
+}
+.composicionLogo :nth-child(1){
+    width: 40px;
+}
+.composicionLogo :nth-child(2){
+    width: 130px;
+    margin-left: 15px;
+}
+.btnNav{
+    background-color: transparent;
+    border: none;
+    color: #fff     ;
+    font-size: 16px;
+    white-space: nowap;
+    height: 80px;
+    padding: 0 20px;
+
+}
+.flexNav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.composicionIcono1{
+    transform: rotate(90deg);
+    margin-right: 5px;
+}
+.composicionIcono2{
+    margin-right: 5px;
+}
+.composicionIcono3{
+    margin-left: 5px;
+}
+.busqueda ::placeholder{
+font-family: italic;
+background-color: #b4b2b2;
+padding-left: 10px;
+
+
+}
+.busqueda{
+    background-color: #b4b2b2;
+    height: 40px;
+    border: none;
+    width: 370px;
+}
